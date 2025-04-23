@@ -14,6 +14,7 @@ To use:
 7. Play!
 
 WARNING: Only works on Google Chrome and Microsoft Edge, May have bugs that can cuase crashes and loss of game data. THIS GAME IS EXPERIMENTAL.
+Massive bug found: DO NOT CLICK ON UPGRADES! Due to the original games styling script, it can have an error while trying to exit the updates tab. This can break the game, and delete the save! (Luckily, the game is just cheating, so you can get it back easily... but still!)
 
 Changes by WeDonHaveAName studios
 Original game by Economical Games
